@@ -16,5 +16,8 @@ This project is a simple keylogger built using Python, designed to demonstrate h
 - Install dependencies using `pip`:
   ```bash
      pip install pynput
+  ```
+- Run python file :
+  ```bash
      python keylogger.py
   ```
