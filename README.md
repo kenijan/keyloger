@@ -1,2 +1,20 @@
-# keyloger
-A simple keylogger built using Python, designed for educational purposes. This project demonstrates how keyloggers work and how they can be used to monitor keystrokes on a system. This tool is intended for ethical use only, such as cybersecurity learning or testing your own system.
+# Keylogger
+
+## Description
+This project is a simple keylogger built using Python, designed to demonstrate how keystroke logging works.  
+**⚠️ This tool is for ethical use and educational purposes only. Misuse may violate laws and regulations.**
+
+## Features
+- Records keystrokes in the background.
+- Logs are stored in a file for review.
+- Lightweight and easy to configure.
+- Sent message for Telegram Bot
+- Works on [Specify OS, e.g., Windows/Linux].
+
+## Requirements
+- Python 3.11 or later
+- Install dependencies using `pip`:
+  ```bash
+     pip install pynput
+     python keylogger.py
+  ```
