@@ -19,11 +19,11 @@ This project is a simple keylogger built using Python, designed to demonstrate h
   ```bash
      pip install pynput
   ```
--Clone 
-```bash
-   gitclone https://github.com/kenijan/keylogger
-   cd keylogger
-```
+- Clone 
+  ```bash
+     gitclone https://github.com/kenijan/keylogger
+     cd keylogger
+  ```
 - Run python file :
   ```bash
      python keylogger.py
