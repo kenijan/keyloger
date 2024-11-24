@@ -13,6 +13,8 @@ This project is a simple keylogger built using Python, designed to demonstrate h
 
 ## Requirements
 - Python 3.11 or later
+- Replace with your bot token
+- Replace with your chat ID
 - Install dependencies using `pip`:
   ```bash
      pip install pynput
